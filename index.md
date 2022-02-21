@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/kx-cn/kx-cn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 网址导航
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[信息页面]（http://gsyk.chinalife-p.com.cn/report/r_ada15-9t46dul6-x2ye4m/4402fbfd0d27415f65cbdb2fa29eede4）
 
 ```markdown
 Syntax highlighted code block
