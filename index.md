@@ -5,7 +5,7 @@
 ### 网址导航
 
 [信息页面](http://gsyk.chinalife-p.com.cn/report/r_ada15-9t46dul6-x2ye4m/4402fbfd0d27415f65cbdb2fa29eede4)
-[jellyfin](121.41.141.151:6005)
+[jellyfin](http://121.41.141.151:6005)
 
 ```markdown
 Syntax highlighted code block
