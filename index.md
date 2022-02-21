@@ -4,7 +4,7 @@
 
 ### 网址导航
 
-[信息页面]（http://gsyk.chinalife-p.com.cn/report/r_ada15-9t46dul6-x2ye4m/4402fbfd0d27415f65cbdb2fa29eede4）
+[信息页面](http://gsyk.chinalife-p.com.cn/report/r_ada15-9t46dul6-x2ye4m/4402fbfd0d27415f65cbdb2fa29eede4)
 
 ```markdown
 Syntax highlighted code block
