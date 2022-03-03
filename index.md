@@ -6,7 +6,7 @@
 
 [信息页面](http://gsyk.chinalife-p.com.cn/report/r_ada15-9t46dul6-x2ye4m/4402fbfd0d27415f65cbdb2fa29eede4)
 
-[jellyfin](http://121.41.141.151:6005)
+[一个HREF](http://gsyk.chinalife-p.com.cn/report/r_ada15-7mcn7apt-8kn1vm/a941ce367deeb3a401653c98b51df6a9)
 
 ```markdown
 Syntax highlighted code block
